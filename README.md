@@ -55,5 +55,6 @@ WallPaper Hub is a modern Android application that allows users to browse, searc
 ## Getting Started
 
 To get started with this project, clone this repository and import into Android Studio:
+git clone
 ```bash
- git clne:  https://github.com/Nour5Eldin/WallPaper_Compose
+https://github.com/Nour5Eldin/WallPaper_Compose
