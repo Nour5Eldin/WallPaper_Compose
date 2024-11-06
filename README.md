@@ -10,9 +10,9 @@ WallPaper Hub is a modern Android application that allows users to browse, searc
 
 # :camera_flash: **Screenshots** :camera_flash:
 
-| Wallpaper  GridList  Screen                         | Wallpaper  ZoomedImageCard                            | Wallpaper  FullImage  Screen                        | Wallpaper  Favorite BookMarks Screen                  | Wallpaper  Download Images                            |
-|-----------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-|<img width="160" src="./assets/CoinDetailScreen.gif">| <img width="160" src="./assets/CoinListScreen.gif">   |<img width="160" src="./assets/CoinDetailScreen.gif">|<img width="160" src="./assets/CoinDetailScreen.gif">  |<img width="160" src="./assets/CoinDetailScreen.gif">  |
+| Wallpaper  GridList  Screen                         | Wallpaper  ZoomedImageCard                            | Wallpaper  FullImage  Screen                        | Wallpaper  Favorite BookMarks Screen                  | Wallpaper  Download Images                           |
+|-----------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+|<img width="160" src="./assets/wallpaperGrid.gif">| <img width="160" src="./assets/wallpaperZoomedImg.gif">   |<img width="160" src="./assets/wallpaperFullimage.gif">|<img width="160" src="./assets/wallpaperBookmarksFav.gif">  |<img width="160" src="./assets/wallpaperdownloadimg.gif">  |
 
 
 
